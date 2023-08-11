@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Admin\Desktop\EDP\midtermedp\My Project\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="customers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="customersave.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dashboard_admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="employees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="employeesave.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InputProductBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="products.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="register.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="transactions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
